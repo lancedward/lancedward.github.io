@@ -11,12 +11,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: About
-    url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+  - title: Grade me
+    url: /https://d2l.ucalgary.ca/d2l/home/498716
 email: lance.dizon@ucalgary.ca
 # See: https://disqus.com/
 # disqus_username: disqus_username
