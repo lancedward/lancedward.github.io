@@ -1,10 +1,10 @@
 ---
 layout: page
-menu: false
-date: '2020-4-11 01:530:05'
+menu: true
+date: '2020-4-11 01:53:05'
 title: GradeMe
 description: Some description.
-permalink: /GradeMe/
+permalink: /about/
 ---
 
 <img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
