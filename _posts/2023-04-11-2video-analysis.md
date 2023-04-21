@@ -10,5 +10,4 @@ category: blog
 tags:
   - video
 author: lancedizon
-paginate: true
 ---
